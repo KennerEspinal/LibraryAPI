@@ -1,0 +1,5 @@
+//skip folder 
+node_modules/
+
+//skip the enviroments
+.env
