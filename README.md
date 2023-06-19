@@ -1,4 +1,4 @@
-# Winners API
+# Library API
 
 _API desarrollada por Kenner Espinal a modo de practica y material educativo_
 
