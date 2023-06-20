@@ -30,7 +30,7 @@ export const createUser = async (req, res) => {
   try {
     const { fullName, email, password, rol } = req.body;
 
-    const rolesFound = await RolModel.find({ name: { $in: [rol] } });
+    const rolesFound = await RolModel.find({ name: { $in: rol } });
 
     // creating a new User
     const user = new UserModel({
