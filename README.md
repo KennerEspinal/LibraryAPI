@@ -10,7 +10,7 @@ _Para poder inicializar el sistema se requiere lo siguiente :_
 
 ```
 1. Tener conocimientos Node y Express JS.
-2. Tener conocimientos MongoDB Atlas.
+2. Tener conocimientos Mongoose & MongoDB Atlas.
 3. Tener Conocimientos en JavaScript. 
 4. Visual Studio Code (Editor de Codigo).
 ```
