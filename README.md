@@ -20,7 +20,7 @@ _Para poder inicializar el sistema se requiere lo siguiente :_
 ```
 git clone https://github.com/KennerEspinal/LibraryAPI.git
 ```
-### Ingresas a la carpeta WinnersAPI e instalas dependencias con el comando 
+### Ingresas a la carpeta LibraryAPI e instalas dependencias con el comando 
 ````
 npm install 
 ````
